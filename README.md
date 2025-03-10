@@ -5,11 +5,15 @@ It leverages Kotlin Coroutines and Flow for efficient asynchronous data handling
 **Features**
 
 Jetpack Compose UI – Fully declarative and modern UI.
+
 Jetpack Compose Navigation – For navigation between screens.
+
 Clean Architecture with MVI – Separation of concerns for better scalability.
+
 Koin Dependency Injection – Lightweight and modular DI setup.
-Kotlin Coroutines & Flow – Efficient asynchronous data handling.
-JSON Data Handling – Reads and parses structured recipe data.
+
+Kotlin Coroutines & Flow
+
 Coil Image Loading and Adaptive UI based on system settings.
 
 **Tech Stack**
