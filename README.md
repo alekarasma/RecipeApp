@@ -15,13 +15,3 @@ Koin Dependency Injection – Lightweight and modular DI setup.
 Kotlin Coroutines & Flow
 
 Coil Image Loading and Adaptive UI based on system settings.
-
-**Tech Stack**
-
-Language: Kotlin
-Architecture: Clean Architecture with MVI
-UI: Jetpack Compose
-Navigation: Jetpack Compose Navigation
-Asynchronous Processing: Kotlin Coroutines & Flow
-DI: Koin
-Image Loading: Coil
